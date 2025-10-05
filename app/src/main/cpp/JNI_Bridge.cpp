@@ -8,6 +8,7 @@
 #include "ModMenu.h"
 #include "Hooks.h"
 #include "Includes.h"
+#include "Il2Cpp.h"
 #include "dobby.h"
 
 #define LOG_TAG "LSPosedModMenu"

@@ -9,6 +9,7 @@
 #include <vector>
 #include <dlfcn.h>
 #include "Includes.h"
+#include "Il2Cpp.h"
 #include "dobby.h"
 
 // Global state
